@@ -1,0 +1,90 @@
+{
+  "profile": "tabular-data-package",
+  "name": "oui-change-history",
+  "title": "OUI change history",
+  "description": "Observed changes to the IEEE OUI registry across 71 dated captures between 2016-07-29 and 2026-08-27: 2325 renames, 5 withdrawals, 0 reassignments. The IEEE publishes current state only.",
+  "homepage": "https://ssid.ai/directory",
+  "version": "2026-08-27",
+  "created": "2026-08-27",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "ssid.ai",
+      "path": "https://ssid.ai",
+      "role": "publisher"
+    }
+  ],
+  "keywords": [
+    "mac address",
+    "oui",
+    "ieee",
+    "device identification",
+    "provenance",
+    "open data"
+  ],
+  "resources": [
+    {
+      "profile": "tabular-data-resource",
+      "name": "oui-changes",
+      "path": "oui-changes.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "lineTerminator": "\n",
+        "header": true
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "oui_prefix",
+            "type": "string"
+          },
+          {
+            "name": "change_type",
+            "type": "string"
+          },
+          {
+            "name": "observed_at",
+            "type": "datetime"
+          },
+          {
+            "name": "previous_org",
+            "type": "string"
+          },
+          {
+            "name": "current_org",
+            "type": "string"
+          },
+          {
+            "name": "source_url",
+            "type": "string"
+          },
+          {
+            "name": "source_archive_url",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "observations",
+      "path": "observations.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "known-duplicate-prefixes",
+      "path": "known-duplicate-prefixes.csv",
+      "format": "csv",
+      "mediatype": "text/csv"
+    }
+  ]
+}
