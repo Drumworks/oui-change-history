@@ -17,7 +17,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "SEIKO EPSON CORPORATION",
       "current_org": "Seiko Epson Corporation"
     },
@@ -62,7 +62,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ADTRAN INC",
       "current_org": "Adtran Inc"
     },
@@ -89,7 +89,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Hyperchip, Inc.",
       "current_org": "HYPERCHIP Inc."
     },
@@ -296,7 +296,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -314,7 +314,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Blonder Tongue Laboratories, Inc.",
       "current_org": "Blonder Tongue Laboratories, Inc"
     },
@@ -368,7 +368,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Chant Sincere CO., LTD.",
       "current_org": "CHANT SINCERE CO.,LTD"
     },
@@ -404,7 +404,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Panasonic Mobile Communications Co., Ltd.",
       "current_org": "Panasonic Mobile Communications Co.,Ltd."
     },
@@ -413,7 +413,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ADTRAN INC.",
       "current_org": "Adtran Inc"
     },
@@ -422,7 +422,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -494,7 +494,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "embedded wireless GmbH",
       "current_org": "Embedded Wireless GmbH"
     },
@@ -530,7 +530,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "SEAGATE TECHNOLOGY",
       "current_org": "Seagate Technology"
     },
@@ -557,7 +557,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Kyocera Corporation",
       "current_org": "KYOCERA CORPORATION"
     },
@@ -575,7 +575,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -629,7 +629,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "SEIKO EPSON CORPORATION",
       "current_org": "Seiko Epson Corporation"
     },
@@ -809,7 +809,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "MITSUMI ELECTRIC CO., LTD.",
       "current_org": "MITSUMI ELECTRIC CO.,LTD."
     },
@@ -818,7 +818,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -827,7 +827,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ADTRAN INC.",
       "current_org": "Adtran Inc"
     },
@@ -899,7 +899,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Analog Devices Inc.",
       "current_org": "Analog Devices, Inc."
     },
@@ -908,7 +908,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "EXTREME NETWORKS",
       "current_org": "Extreme Networks"
     },
@@ -962,7 +962,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -971,7 +971,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "EchoStar Technologies Corp",
       "current_org": "Echostar Technologies Corp"
     },
@@ -1016,7 +1016,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1043,7 +1043,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "DILAX Intelcom GmbH",
       "current_org": "Dilax Intelcom GmbH"
     },
@@ -1052,7 +1052,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1079,7 +1079,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "KYOCERA Corporation",
       "current_org": "KYOCERA CORPORATION"
     },
@@ -1097,7 +1097,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1142,7 +1142,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "O-NET Communications(Shenzhen) Limited",
       "current_org": "O-Net Communications (Shenzhen) Limited"
     },
@@ -1178,7 +1178,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZHEJIANG DAHUA TECHNOLOGY CO.,LTD.",
       "current_org": "Zhejiang Dahua Technology Co., Ltd."
     },
@@ -1196,7 +1196,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1205,7 +1205,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen TCL New Technology Co; Ltd.",
       "current_org": "Shenzhen TCL New Technology Co., Ltd"
     },
@@ -1232,7 +1232,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZHEJIANG DAHUA TECHNOLOGY CO.,LTD.",
       "current_org": "Zhejiang Dahua Technology Co., Ltd."
     },
@@ -1250,7 +1250,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1268,7 +1268,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1286,7 +1286,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1322,7 +1322,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1358,7 +1358,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1421,7 +1421,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "KYOCERA Corporation",
       "current_org": "KYOCERA CORPORATION"
     },
@@ -1466,7 +1466,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ERICSSON AB",
       "current_org": "Ericsson AB"
     },
@@ -1475,7 +1475,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "MITSUMI ELECTRIC CO.,LTD",
       "current_org": "MITSUMI ELECTRIC CO.,LTD."
     },
@@ -1511,7 +1511,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "KYOCERA Corporation",
       "current_org": "KYOCERA CORPORATION"
     },
@@ -1529,7 +1529,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Silex Technology, Inc",
       "current_org": "silex technology, Inc."
     },
@@ -1583,7 +1583,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZHEJIANG DAHUA TECHNOLOGY CO.,LTD",
       "current_org": "Zhejiang Dahua Technology Co., Ltd."
     },
@@ -1592,7 +1592,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1628,7 +1628,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1673,7 +1673,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "SEIKO EPSON CORPORATION",
       "current_org": "Seiko Epson Corporation"
     },
@@ -1700,7 +1700,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "SEIKO EPSON CORPORATION",
       "current_org": "Seiko Epson Corporation"
     },
@@ -1718,7 +1718,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shaanxi Guolian Digital TV Technology Co., Ltd.",
       "current_org": "Shaanxi GuoLian Digital TV Technology Co.,Ltd."
     },
@@ -1736,7 +1736,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1745,7 +1745,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "SEIKO EPSON CORPORATION",
       "current_org": "Seiko Epson Corporation"
     },
@@ -1817,7 +1817,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "KYOCERA Corporation",
       "current_org": "KYOCERA CORPORATION"
     },
@@ -1844,7 +1844,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1862,7 +1862,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1907,7 +1907,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Panasonic Mobile Communications Co., Ltd.",
       "current_org": "Panasonic Mobile Communications Co.,Ltd."
     },
@@ -1934,7 +1934,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -1952,7 +1952,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -2015,7 +2015,7 @@
       "observed_at": "2017-09-08T02:05:22.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20170908020522id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ZyXEL Communications Corporation",
       "current_org": "Zyxel Communications Corporation"
     },
@@ -2069,7 +2069,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Watchguard Technologies, Inc.",
       "current_org": "WatchGuard Technologies, Inc."
     },
@@ -2114,7 +2114,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "COMPAL ELECTRONICS, INC.",
       "current_org": "Compal Electronics INC."
     },
@@ -2132,7 +2132,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -2150,7 +2150,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "3COM EUROPE LTD.",
       "current_org": "3COM EUROPE LTD"
     },
@@ -2213,7 +2213,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "3COM EUROPE LTD.",
       "current_org": "3COM EUROPE LTD"
     },
@@ -2240,7 +2240,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -2249,7 +2249,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -2267,7 +2267,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -2285,7 +2285,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Haier Group Technologies Ltd.",
       "current_org": "Haier Group Technologies Ltd"
     },
@@ -2420,7 +2420,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "COMPAL ELECTRONICS, INC.",
       "current_org": "Compal Electronics INC."
     },
@@ -2519,7 +2519,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ABB Inc./Totalflow",
       "current_org": "ABB Inc/Totalflow"
     },
@@ -2591,7 +2591,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Trackflow Ltd",
       "current_org": "Trackflow Ltd."
     },
@@ -2609,7 +2609,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -2681,7 +2681,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -2708,7 +2708,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "intelbras",
       "current_org": "Intelbras"
     },
@@ -2771,7 +2771,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -2798,7 +2798,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "INVENTEC Corporation",
       "current_org": "INVENTEC CORPORATION"
     },
@@ -2807,7 +2807,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -2897,7 +2897,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -2933,7 +2933,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -2978,7 +2978,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -3041,7 +3041,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -3059,7 +3059,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "INVENTEC Corporation",
       "current_org": "INVENTEC CORPORATION"
     },
@@ -3077,7 +3077,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "3COM EUROPE LTD.",
       "current_org": "3COM EUROPE LTD"
     },
@@ -3122,7 +3122,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "3COM EUROPE, LTD.",
       "current_org": "3COM EUROPE LTD"
     },
@@ -3176,7 +3176,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "INVENTEC Corporation",
       "current_org": "INVENTEC CORPORATION"
     },
@@ -3185,7 +3185,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "3COM EUROPE LTD.",
       "current_org": "3COM EUROPE LTD"
     },
@@ -3257,7 +3257,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "SERCOMM CORPORATION",
       "current_org": "Sercomm Corporation."
     },
@@ -3284,7 +3284,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "3COM EUROPE LTD.",
       "current_org": "3COM EUROPE LTD"
     },
@@ -3365,7 +3365,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -3374,7 +3374,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -3401,7 +3401,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "3COM EUROPE LTD.",
       "current_org": "3COM EUROPE LTD"
     },
@@ -3437,7 +3437,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "GUANGDONG GENIUS TECHNOLOGY CO.,LTD.",
       "current_org": "GUANGDONG GENIUS TECHNOLOGY CO., LTD."
     },
@@ -3581,7 +3581,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -3653,7 +3653,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -3680,7 +3680,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -3689,7 +3689,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -3779,7 +3779,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -3860,7 +3860,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -3878,7 +3878,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -3968,7 +3968,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "INVENTEC Corporation",
       "current_org": "INVENTEC CORPORATION"
     },
@@ -4085,7 +4085,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sercomm Corporation",
       "current_org": "Sercomm Corporation."
     },
@@ -4139,7 +4139,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -4184,7 +4184,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "busware.de",
       "current_org": "BUSWARE.DE"
     },
@@ -4220,7 +4220,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -4418,7 +4418,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sercomm Corporation",
       "current_org": "Sercomm Corporation."
     },
@@ -4490,7 +4490,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sercomm Corporation",
       "current_org": "Sercomm Corporation."
     },
@@ -4508,7 +4508,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -4517,7 +4517,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -4526,7 +4526,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Fujian Landi Commercial Equipment Co.,Ltd",
       "current_org": "Fujian LANDI Commercial Equipment Co.,Ltd"
     },
@@ -4544,7 +4544,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "GUANGDONG GENIUS TECHNOLOGY CO.,LTD.",
       "current_org": "GUANGDONG GENIUS TECHNOLOGY CO., LTD."
     },
@@ -4580,7 +4580,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "NOKIA",
       "current_org": "Nokia"
     },
@@ -4607,7 +4607,7 @@
       "observed_at": "2018-12-21T09:05:36.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20181221090536id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPS ELECTRIC CO.,LTD.",
       "current_org": "ALPS ELECTRIC CO., LTD."
     },
@@ -4616,7 +4616,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "NEC CORPORATION",
       "current_org": "NEC Corporation"
     },
@@ -4697,7 +4697,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Solarflare Communications Inc",
       "current_org": "Solarflare Communications Inc."
     },
@@ -4733,7 +4733,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Solarflare Communications Inc",
       "current_org": "Solarflare Communications Inc."
     },
@@ -4778,7 +4778,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sunitec Enterprise Co., Ltd.",
       "current_org": "Sunitec Enterprise Co.,Ltd"
     },
@@ -4796,7 +4796,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Lexmark International Inc.",
       "current_org": "LEXMARK INTERNATIONAL, INC."
     },
@@ -4823,7 +4823,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "NEW POS Technology Limited",
       "current_org": "NEW POS TECHNOLOGY LIMITED"
     },
@@ -4868,7 +4868,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "I-O DATA DEVICE, INC.",
       "current_org": "I-O DATA DEVICE,INC."
     },
@@ -4904,7 +4904,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Nokia Shanghai Bell Co. Ltd.）",
       "current_org": "Nokia Shanghai Bell Co., Ltd."
     },
@@ -4913,7 +4913,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Nokia Shanghai Bell Co. Ltd.）",
       "current_org": "Nokia Shanghai Bell Co., Ltd."
     },
@@ -4931,7 +4931,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "I-O DATA DEVICE, INC.",
       "current_org": "I-O DATA DEVICE,INC."
     },
@@ -4940,7 +4940,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Nantong Coship Electronics Co., Ltd",
       "current_org": "Nantong Coship Electronics Co., Ltd."
     },
@@ -4976,7 +4976,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Nokia Shanghai Bell Co. Ltd.）",
       "current_org": "Nokia Shanghai Bell Co., Ltd."
     },
@@ -4985,7 +4985,7 @@
       "observed_at": "2019-07-04T10:16:16.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20190704101616id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Systech Electronics Ltd.",
       "current_org": "Systech Electronics Ltd"
     },
@@ -5993,7 +5993,7 @@
       "observed_at": "2020-05-13T21:25:05.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200513212505id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LG innotek",
       "current_org": "LG Innotek"
     },
@@ -6002,7 +6002,7 @@
       "observed_at": "2020-05-13T21:25:05.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200513212505id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Lg Innotek",
       "current_org": "LG Innotek"
     },
@@ -6011,7 +6011,7 @@
       "observed_at": "2020-05-13T21:25:05.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200513212505id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Beijing Xiaomi Mobile Software Co.,Ltd",
       "current_org": "Beijing Xiaomi Mobile Software Co., Ltd"
     },
@@ -6020,7 +6020,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sumitomo Electric Industries,Ltd",
       "current_org": "Sumitomo Electric Industries, Ltd"
     },
@@ -6047,7 +6047,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sumitomo Electric Industries,Ltd",
       "current_org": "Sumitomo Electric Industries, Ltd"
     },
@@ -6056,7 +6056,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sumitomo Electric Industries,Ltd",
       "current_org": "Sumitomo Electric Industries, Ltd"
     },
@@ -6065,7 +6065,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6083,7 +6083,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6092,7 +6092,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sumitomo Electric Industries,Ltd",
       "current_org": "Sumitomo Electric Industries, Ltd"
     },
@@ -6110,7 +6110,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6119,7 +6119,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6128,7 +6128,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sumitomo Electric Industries,Ltd",
       "current_org": "Sumitomo Electric Industries, Ltd"
     },
@@ -6137,7 +6137,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6146,7 +6146,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "CASTLENET TECHNOLOGY, INC.",
       "current_org": "Castlenet Technology Inc."
     },
@@ -6164,7 +6164,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ARTEL VIDEO SYSTEMS",
       "current_org": "Artel Video Systems"
     },
@@ -6173,7 +6173,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6191,7 +6191,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6218,7 +6218,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6236,7 +6236,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6272,7 +6272,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6290,7 +6290,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6317,7 +6317,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen iComm Semiconductor Co., Ltd.",
       "current_org": "Shenzhen iComm Semiconductor CO.,LTD"
     },
@@ -6326,7 +6326,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen iComm Semiconductor CO,LTD",
       "current_org": "Shenzhen iComm Semiconductor CO.,LTD"
     },
@@ -6362,7 +6362,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6380,7 +6380,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6398,7 +6398,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6434,7 +6434,7 @@
       "observed_at": "2020-08-05T03:20:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20200805032028id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "QUANTA COMPUTER INC.",
       "current_org": "Quanta Computer Inc."
     },
@@ -6848,7 +6848,7 @@
       "observed_at": "2020-11-28T14:05:02.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20201128140502id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Westunitis Co., Ltd.",
       "current_org": "WESTUNITIS CO., LTD."
     },
@@ -7163,7 +7163,7 @@
       "observed_at": "2021-02-25T00:24:09.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20210225002409id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sichuan Tianyi Comheart Telecom Co., Ltd.",
       "current_org": "Sichuan Tianyi Comheart Telecom Co.,LTD"
     },
@@ -7172,7 +7172,7 @@
       "observed_at": "2021-02-25T00:24:09.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20210225002409id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "SICHUAN TIANYI COMHEART TELECOM CO.,LTD",
       "current_org": "Sichuan Tianyi Comheart Telecom Co.,LTD"
     },
@@ -7208,7 +7208,7 @@
       "observed_at": "2021-02-25T00:24:09.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20210225002409id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "SICHUAN TIANYI COMHEART TELECOM CO.,LTD",
       "current_org": "Sichuan Tianyi Comheart Telecom Co.,LTD"
     },
@@ -7217,7 +7217,7 @@
       "observed_at": "2021-02-25T00:24:09.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20210225002409id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "SICHUAN TIANYI COMHEART TELECOM CO.,LTD",
       "current_org": "Sichuan Tianyi Comheart Telecom Co.,LTD"
     },
@@ -7244,7 +7244,7 @@
       "observed_at": "2021-02-25T00:24:09.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20210225002409id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sichuan Tianyi Comheart Telecom Co., Ltd.",
       "current_org": "Sichuan Tianyi Comheart Telecom Co.,LTD"
     },
@@ -7298,7 +7298,7 @@
       "observed_at": "2021-02-25T00:24:09.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20210225002409id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sichuan Tianyi Comheart Telecom Co., Ltd.",
       "current_org": "Sichuan Tianyi Comheart Telecom Co.,LTD"
     },
@@ -7379,7 +7379,7 @@
       "observed_at": "2021-02-25T00:24:09.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20210225002409id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "SICHUAN TIANYI COMHEART TELECOM CO.,LTD",
       "current_org": "Sichuan Tianyi Comheart Telecom Co.,LTD"
     },
@@ -7496,7 +7496,7 @@
       "observed_at": "2021-02-25T00:24:09.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20210225002409id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "SICHUAN TIANYI COMHEART TELECOM CO.,LTD",
       "current_org": "Sichuan Tianyi Comheart Telecom Co.,LTD"
     },
@@ -7505,7 +7505,7 @@
       "observed_at": "2021-02-25T00:24:09.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20210225002409id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sichuan Tianyi Comheart Telecom Co., Ltd.",
       "current_org": "Sichuan Tianyi Comheart Telecom Co.,LTD"
     },
@@ -7514,7 +7514,7 @@
       "observed_at": "2021-02-25T00:24:09.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20210225002409id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Sichuan Tianyi Comheart Telecom Co., Ltd.",
       "current_org": "Sichuan Tianyi Comheart Telecom Co.,LTD"
     },
@@ -8549,7 +8549,7 @@
       "observed_at": "2022-07-11T21:58:20.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20220711215820id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Concord IDea Corp.",
       "current_org": "Concord Idea Corp."
     },
@@ -8594,7 +8594,7 @@
       "observed_at": "2022-07-11T21:58:20.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20220711215820id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Lootom Telcovideo Network Wuxi Co Ltd",
       "current_org": "Lootom Telcovideo Network (Wuxi) Co Ltd"
     },
@@ -8783,7 +8783,7 @@
       "observed_at": "2022-07-11T21:58:20.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20220711215820id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "NOMADIX INC.",
       "current_org": "Nomadix, Inc"
     },
@@ -8981,7 +8981,7 @@
       "observed_at": "2022-07-11T21:58:20.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20220711215820id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Askey Computer Corp.",
       "current_org": "ASKEY COMPUTER CORP"
     },
@@ -9026,7 +9026,7 @@
       "observed_at": "2022-07-11T21:58:20.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20220711215820id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology Co., Ltd.",
       "current_org": "LCFC(HeFei) Electronics Technology co., ltd"
     },
@@ -9161,7 +9161,7 @@
       "observed_at": "2022-07-11T21:58:20.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20220711215820id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Askey Computer Corp.",
       "current_org": "ASKEY COMPUTER CORP"
     },
@@ -9368,7 +9368,7 @@
       "observed_at": "2022-07-11T21:58:20.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20220711215820id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Askey Computer Corp.",
       "current_org": "ASKEY COMPUTER CORP"
     },
@@ -9683,7 +9683,7 @@
       "observed_at": "2022-09-05T16:29:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20220905162931id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Fortinet Inc.",
       "current_org": "Fortinet, Inc."
     },
@@ -9692,7 +9692,7 @@
       "observed_at": "2022-09-05T16:29:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20220905162931id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Fortinet Inc.",
       "current_org": "Fortinet, Inc."
     },
@@ -10160,7 +10160,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "CONCURRENT TECHNOLOGIES  LTD.",
       "current_org": "Concurrent Technologies Ltd."
     },
@@ -10232,7 +10232,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Cradlepoint, Inc",
       "current_org": "CradlePoint, Inc"
     },
@@ -10286,7 +10286,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -10295,7 +10295,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Opticore Inc.",
       "current_org": "OptiCore Inc."
     },
@@ -10331,7 +10331,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -10358,7 +10358,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -10412,7 +10412,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -10430,7 +10430,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -10475,7 +10475,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -10493,7 +10493,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -10547,7 +10547,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -10565,7 +10565,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shanghai InfoTM Microelectronics Co.,Ltd.",
       "current_org": "Shanghai InfoTM Microelectronics Co.,Ltd"
     },
@@ -10601,7 +10601,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPSALPINE CO .,LTD",
       "current_org": "ALPSALPINE CO,.LTD"
     },
@@ -10610,7 +10610,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -10619,7 +10619,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Quectel Wireless Solutions Co., Ltd.",
       "current_org": "Quectel Wireless Solutions Co.,Ltd."
     },
@@ -10628,7 +10628,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -10655,7 +10655,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Samsung Electronics Co.,LTD",
       "current_org": "Samsung Electronics Co.,Ltd"
     },
@@ -10709,7 +10709,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -10772,7 +10772,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPSALPINE CO .,LTD",
       "current_org": "ALPSALPINE CO,.LTD"
     },
@@ -10826,7 +10826,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -10871,7 +10871,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Quectel Wireless Solutions Co., Ltd.",
       "current_org": "Quectel Wireless Solutions Co.,Ltd."
     },
@@ -10880,7 +10880,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Quectel Wireless Solutions Co., Ltd.",
       "current_org": "Quectel Wireless Solutions Co.,Ltd."
     },
@@ -10934,7 +10934,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Quectel Wireless Solutions Co., Ltd.",
       "current_org": "Quectel Wireless Solutions Co.,Ltd."
     },
@@ -10988,7 +10988,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPSALPINE CO .,LTD",
       "current_org": "ALPSALPINE CO,.LTD"
     },
@@ -11006,7 +11006,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen SuperElectron Technology Co.,LTD",
       "current_org": "Shenzhen SuperElectron Technology Co.,Ltd."
     },
@@ -11042,7 +11042,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -11069,7 +11069,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(Hefei) Electronics Technology Co., Ltd",
       "current_org": "LCFC(HeFei) Electronics Technology co., ltd"
     },
@@ -11087,7 +11087,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -11159,7 +11159,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Huaqin Technology Co.,Ltd",
       "current_org": "Huaqin Technology Co. LTD"
     },
@@ -11186,7 +11186,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -11195,7 +11195,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -11285,7 +11285,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -11303,7 +11303,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Quectel Wireless Solutions Co., Ltd.",
       "current_org": "Quectel Wireless Solutions Co.,Ltd."
     },
@@ -11348,7 +11348,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(Hefei) Electronics Technology Co., Ltd",
       "current_org": "LCFC(HeFei) Electronics Technology co., ltd"
     },
@@ -11402,7 +11402,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -11411,7 +11411,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Quectel Wireless Solutions Co., Ltd.",
       "current_org": "Quectel Wireless Solutions Co.,Ltd."
     },
@@ -11429,7 +11429,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "ALPSALPINE CO .,LTD",
       "current_org": "ALPSALPINE CO,.LTD"
     },
@@ -11465,7 +11465,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -11510,7 +11510,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(Hefei) Electronics Technology Co., Ltd",
       "current_org": "LCFC(HeFei) Electronics Technology co., ltd"
     },
@@ -11546,7 +11546,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -11573,7 +11573,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Quectel Wireless Solutions Co., Ltd.",
       "current_org": "Quectel Wireless Solutions Co.,Ltd."
     },
@@ -11600,7 +11600,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Samsung Electronics Co.,LTD",
       "current_org": "Samsung Electronics Co.,Ltd"
     },
@@ -11690,7 +11690,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen SDMC Technology Co.,LTD",
       "current_org": "Shenzhen SDMC Technology CO.,Ltd."
     },
@@ -11726,7 +11726,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -11762,7 +11762,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Quectel Wireless Solutions Co., Ltd.",
       "current_org": "Quectel Wireless Solutions Co.,Ltd."
     },
@@ -11771,7 +11771,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -11870,7 +11870,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Samsung Electronics Co.,LTD",
       "current_org": "Samsung Electronics Co.,Ltd"
     },
@@ -11951,7 +11951,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -11996,7 +11996,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Siemens Industrial Automation Products Ltd Chengdu",
       "current_org": "Siemens Industrial Automation Products Ltd., Chengdu"
     },
@@ -12131,7 +12131,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Skyworth  Digital  Technology  CO., Ltd",
       "current_org": "Shenzhen Skyworth Digital  Technology  CO., Ltd"
     },
@@ -12176,7 +12176,7 @@
       "observed_at": "2023-07-11T15:51:12.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20230711155112id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen SDMC Technology Co., Ltd.",
       "current_org": "Shenzhen SDMC Technology CO.,Ltd."
     },
@@ -12311,7 +12311,7 @@
       "observed_at": "2024-02-15T03:22:47.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240215032247id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Giga-Byte Technology Co.,LTD.",
       "current_org": "GIGA-BYTE TECHNOLOGY CO.,LTD."
     },
@@ -12347,7 +12347,7 @@
       "observed_at": "2024-02-15T03:22:47.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240215032247id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "AKAMAI TECHNOLOGIES, INC.",
       "current_org": "Akamai Technologies Inc."
     },
@@ -12365,7 +12365,7 @@
       "observed_at": "2024-02-15T03:22:47.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240215032247id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "AKAMAI TECHNOLOGIES INC",
       "current_org": "Akamai Technologies Inc."
     },
@@ -12392,7 +12392,7 @@
       "observed_at": "2024-02-15T03:22:47.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240215032247id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "AXIS COMMUNICATIONS AB",
       "current_org": "Axis Communications AB"
     },
@@ -12626,7 +12626,7 @@
       "observed_at": "2024-02-15T03:22:47.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240215032247id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Raisecom Technology CO.,LTD",
       "current_org": "Raisecom Technology CO., LTD"
     },
@@ -12716,7 +12716,7 @@
       "observed_at": "2024-02-15T03:22:47.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240215032247id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Raisecom Technology CO.,LTD",
       "current_org": "Raisecom Technology CO., LTD"
     },
@@ -12923,7 +12923,7 @@
       "observed_at": "2024-02-15T03:22:47.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240215032247id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Raisecom Technology CO.,LTD",
       "current_org": "Raisecom Technology CO., LTD"
     },
@@ -13022,7 +13022,7 @@
       "observed_at": "2024-02-15T03:22:47.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240215032247id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Intellirocks Tech co.,ltd",
       "current_org": "Shenzhen Intellirocks Tech. Co. Ltd."
     },
@@ -13103,7 +13103,7 @@
       "observed_at": "2024-02-15T03:22:47.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240215032247id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen C-Data Technology Co., Ltd",
       "current_org": "Shenzhen C-Data Technology Co., Ltd."
     },
@@ -14066,7 +14066,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "EMH metering GmbH & Co. KG",
       "current_org": "EMH Metering GmbH & Co. KG"
     },
@@ -14093,7 +14093,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14120,7 +14120,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14129,7 +14129,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14147,7 +14147,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14156,7 +14156,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14165,7 +14165,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14174,7 +14174,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14192,7 +14192,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14201,7 +14201,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14219,7 +14219,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14237,7 +14237,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14246,7 +14246,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14255,7 +14255,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14273,7 +14273,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14282,7 +14282,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14300,7 +14300,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14309,7 +14309,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14354,7 +14354,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14363,7 +14363,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14381,7 +14381,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14390,7 +14390,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14417,7 +14417,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14426,7 +14426,7 @@
       "observed_at": "2024-06-23T18:08:31.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240623180831id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "LCFC(HeFei) Electronics Technology co., ltd",
       "current_org": "LCFC(Hefei) Electronics Technology co., ltd"
     },
@@ -14543,7 +14543,7 @@
       "observed_at": "2024-09-17T16:39:59.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240917163959id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "EVS BROADCAST EQUIPMENT",
       "current_org": "EVS Broadcast Equipment"
     },
@@ -14570,7 +14570,7 @@
       "observed_at": "2024-09-17T16:39:59.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240917163959id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Jiangxi Risound Electronics Co., LTD",
       "current_org": "Jiangxi Risound Electronics Co.,LTD"
     },
@@ -14588,7 +14588,7 @@
       "observed_at": "2024-09-17T16:39:59.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240917163959id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Jiangxi Risound Electronics Co., LTD",
       "current_org": "Jiangxi Risound Electronics Co.,LTD"
     },
@@ -14615,7 +14615,7 @@
       "observed_at": "2024-09-17T16:39:59.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20240917163959id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Verifone Inc.",
       "current_org": "Verifone, Inc."
     },
@@ -17909,7 +17909,7 @@
       "observed_at": "2025-02-27T19:27:21.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250227192721id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "MediaTek Inc.",
       "current_org": "MediaTek Inc"
     },
@@ -18782,7 +18782,7 @@
       "observed_at": "2025-08-23T07:49:07.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250823074907id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Sundray Technologies Company Limited",
       "current_org": "Shenzhen Sundray Technologies company Limited"
     },
@@ -18800,7 +18800,7 @@
       "observed_at": "2025-08-23T07:49:07.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250823074907id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Sundray Technologies Company Limited",
       "current_org": "Shenzhen Sundray Technologies company Limited"
     },
@@ -18809,7 +18809,7 @@
       "observed_at": "2025-08-23T07:49:07.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250823074907id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "DENSO Corporation",
       "current_org": "DENSO CORPORATION"
     },
@@ -18836,7 +18836,7 @@
       "observed_at": "2025-08-23T07:49:07.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250823074907id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Sundray Technologies Company Limited",
       "current_org": "Shenzhen Sundray Technologies company Limited"
     },
@@ -18890,7 +18890,7 @@
       "observed_at": "2025-08-23T07:49:07.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250823074907id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Sundray Technologies Company Limited",
       "current_org": "Shenzhen Sundray Technologies company Limited"
     },
@@ -18899,7 +18899,7 @@
       "observed_at": "2025-08-23T07:49:07.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250823074907id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Sundray Technologies Company Limited",
       "current_org": "Shenzhen Sundray Technologies company Limited"
     },
@@ -18917,7 +18917,7 @@
       "observed_at": "2025-08-23T07:49:07.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250823074907id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Sundray Technologies Company Limited",
       "current_org": "Shenzhen Sundray Technologies company Limited"
     },
@@ -18926,7 +18926,7 @@
       "observed_at": "2025-08-23T07:49:07.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250823074907id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Sundray Technologies Company Limited",
       "current_org": "Shenzhen Sundray Technologies company Limited"
     },
@@ -18944,7 +18944,7 @@
       "observed_at": "2025-08-23T07:49:07.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250823074907id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Sundray Technologies Company Limited",
       "current_org": "Shenzhen Sundray Technologies company Limited"
     },
@@ -18953,7 +18953,7 @@
       "observed_at": "2025-08-23T07:49:07.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250823074907id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Sundray Technologies Company Limited",
       "current_org": "Shenzhen Sundray Technologies company Limited"
     },
@@ -18989,7 +18989,7 @@
       "observed_at": "2025-08-23T07:49:07.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250823074907id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Sundray Technologies Company Limited",
       "current_org": "Shenzhen Sundray Technologies company Limited"
     },
@@ -19016,7 +19016,7 @@
       "observed_at": "2025-08-23T07:49:07.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20250823074907id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Sundray Technologies Company Limited",
       "current_org": "Shenzhen Sundray Technologies company Limited"
     },
@@ -20267,7 +20267,7 @@
       "observed_at": "2026-02-17T17:27:35.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20260217172735id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "nFore Technology Co.,Ltd.",
       "current_org": "nFore Technology Co., Ltd."
     },
@@ -20330,7 +20330,7 @@
       "observed_at": "2026-06-20T10:17:08.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20260620101708id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Studio Technologies, Inc",
       "current_org": "Studio Technologies, Inc."
     },
@@ -20483,7 +20483,7 @@
       "observed_at": "2026-06-20T10:17:08.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20260620101708id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Quectel Wireless Solutions Co., Ltd.",
       "current_org": "Quectel Wireless Solutions Co.,Ltd."
     },
@@ -20492,7 +20492,7 @@
       "observed_at": "2026-06-20T10:17:08.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20260620101708id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Bilian electronic CO.,LTD",
       "current_org": "SHENZHEN BILIAN ELECTRONIC CO.，LTD"
     },
@@ -20501,7 +20501,7 @@
       "observed_at": "2026-06-20T10:17:08.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20260620101708id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Bilian electronic CO.,LTD",
       "current_org": "SHENZHEN BILIAN ELECTRONIC CO.，LTD"
     },
@@ -20546,7 +20546,7 @@
       "observed_at": "2026-06-20T10:17:08.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20260620101708id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Quectel Wireless Solutions Co., Ltd.",
       "current_org": "Quectel Wireless Solutions Co.,Ltd."
     },
@@ -20555,7 +20555,7 @@
       "observed_at": "2026-06-20T10:17:08.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20260620101708id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Bilian electronic CO.,LTD",
       "current_org": "SHENZHEN BILIAN ELECTRONIC CO.，LTD"
     },
@@ -20573,7 +20573,7 @@
       "observed_at": "2026-06-20T10:17:08.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20260620101708id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Bilian electronic CO.,LTD",
       "current_org": "SHENZHEN BILIAN ELECTRONIC CO.，LTD"
     },
@@ -20654,7 +20654,7 @@
       "observed_at": "2026-06-20T10:17:08.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20260620101708id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Queclink Wireless Solutions Co., Ltd",
       "current_org": "Queclink Wireless Solutions Co., Ltd."
     },
@@ -20762,7 +20762,7 @@
       "observed_at": "2026-06-20T10:17:08.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20260620101708id_/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Shenzhen Bilian electronic CO.,LTD",
       "current_org": "SHENZHEN BILIAN ELECTRONIC CO.，LTD"
     },
@@ -20924,7 +20924,7 @@
       "observed_at": "2026-08-07T04:00:28.000Z",
       "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
       "source_archive_url": "https://web.archive.org/web/20260807040021/https://standards-oui.ieee.org/oui/oui.csv",
-      "change_type": "renamed",
+      "change_type": "recased",
       "previous_org": "Tiandy Technologies CO.,LTD",
       "current_org": "Tiandy Technologies Co.,LTD"
     },

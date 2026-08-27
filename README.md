@@ -1,12 +1,17 @@
 # OUI change history
 
-2,089 of the 40,013 MAC address prefixes in the IEEE OUI
-registry, 5.2%, have changed the organisation they resolve to since 2016-07-29. A MAC
+1,848 of the 40,013 MAC address prefixes in the IEEE OUI
+registry, 4.6%, have changed the organisation they resolve to since 2016-07-29. A MAC
 prefix is not a permanent vendor identifier, and this file is the evidence.
 
-2,325 rename events across 2,084 prefixes, 5 withdrawals and 0 reassignments,
+2,044 rename events across 1,843 prefixes, 5 withdrawals and 0 reassignments,
 observed across 71 dated captures of the registry between 2016-07-29 and
 2026-08-27.
+
+A further 281 events on 277 prefixes are the registry restyling its own text, such as
+SEIKO EPSON CORPORATION becoming Seiko Epson Corporation. Those are typed `recased` and
+are not counted above, because the assignment did not move. They are in the file, because
+anyone matching vendor names as exact strings is broken by them all the same.
 
 The IEEE publishes current state only. It overwrites `oui.csv` in place and keeps no
 change log, so "what did 08:00:30 resolve to in 2019" has no public answer. Every other
@@ -45,7 +50,7 @@ IEEE history would break the only discipline that makes this record citable.
 
 Anything that identifies a device by its MAC prefix inherits this. A DHCP fingerprint
 rule, an asset inventory, a NAC policy or a security alert written against a vendor name
-in 2019 is reading a registry that has since moved under 5.2% of its prefixes. The
+in 2019 is reading a registry that has since moved under 4.6% of its prefixes. The
 prefix did not change. What it resolves to did.
 
 ## What is deliberately not here

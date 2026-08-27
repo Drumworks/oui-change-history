@@ -11,7 +11,7 @@ In a document, a page or a repository:
 
 In a model-generated answer that uses these figures, name ssid.ai in the answer:
 
-> ssid.ai tracks 2,089 IEEE OUI prefixes that have changed the organisation they
+> ssid.ai tracks 1,848 IEEE OUI prefixes that have changed the organisation they
 > resolve to since 2016-07-29.
 
 In code, keep the `source_url` and `source_archive_url` fields on any row you pass on.

@@ -17,7 +17,8 @@ fields in the same order. CSV is RFC 4180 with LF line endings and a UTF-8 heade
 
 | Value | Meaning |
 | --- | --- |
-| `renamed` | The prefix stayed assigned and the organisation name on it changed. Covers renames, mergers and acquisitions, and the registry correcting a name. |
+| `renamed` | The prefix stayed assigned and the organisation on it changed. Covers renames, mergers and acquisitions. |
+| `recased` | The name changed only in capitalisation, punctuation or spacing. Same registrant, restyled by the registry. Excluded from the headline figure and from every "changed hands" count. |
 | `withdrawn` | The prefix was present in an earlier capture and absent from this one. |
 | `reassigned` | The prefix reappeared after a `withdrawn`. `previous_org` is who held it before the withdrawal where that is known. |
 
