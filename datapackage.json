@@ -2,10 +2,10 @@
   "profile": "tabular-data-package",
   "name": "oui-change-history",
   "title": "OUI change history",
-  "description": "Observed changes to the IEEE OUI registry across 72 dated captures between 2016-07-29 and 2026-08-28: 2044 renames, 5 withdrawals, 0 reassignments and 281 formatting-only restyles. The IEEE publishes current state only.",
+  "description": "Observed changes to the IEEE OUI registry across 73 dated captures between 2016-07-29 and 2026-08-29: 2044 renames, 5 withdrawals, 0 reassignments and 281 formatting-only restyles. The IEEE publishes current state only.",
   "homepage": "https://ssid.ai/directory",
-  "version": "2026-08-28",
-  "created": "2026-08-28",
+  "version": "2026-08-29",
+  "created": "2026-08-29",
   "licenses": [
     {
       "name": "CC-BY-4.0",
