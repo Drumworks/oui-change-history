@@ -11,13 +11,13 @@ authors:
     country: AE
 repository-code: https://github.com/Drumworks/oui-change-history
 url: https://ssid.ai/directory
-date-released: 2026-08-29
-version: 2026-08-29
+date-released: 2026-08-30
+version: 2026-08-30
 abstract: >-
   A change history for the IEEE OUI registry, which the IEEE itself publishes as
-  current state only. Reconstructed from 73 dated captures of
+  current state only. Reconstructed from 74 dated captures of
   https://standards-oui.ieee.org/oui/oui.csv between 2016-07-29 and
-  2026-08-29, 2044 rename events across 1843
+  2026-08-30, 2044 rename events across 1843
   prefixes are recorded, plus 5 withdrawals and
   0 reassignments, plus 281 formatting-only restyles that are typed
   separately and excluded from the headline. 1848 of the
