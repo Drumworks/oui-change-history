@@ -1,12 +1,12 @@
 # OUI change history
 
-1,848 of the 40,049 MAC address prefixes in the IEEE OUI
+1,848 of the 40,062 MAC address prefixes in the IEEE OUI
 registry, 4.6%, have changed the organisation they resolve to since 2016-07-29. A MAC
 prefix is not a permanent vendor identifier, and this file is the evidence.
 
 2,044 rename events across 1,843 prefixes, 5 withdrawals and 0 reassignments,
-observed across 77 dated captures of the registry between 2016-07-29 and
-2026-09-02.
+observed across 78 dated captures of the registry between 2016-07-29 and
+2026-09-03.
 
 A further 281 events on 277 prefixes are the registry restyling its own text, such as
 SEIKO EPSON CORPORATION becoming Seiko Epson Corporation. Those are typed `recased` and
@@ -20,7 +20,7 @@ OUI repository is a copy of today's file. This is the diff.
 Published by [ssid.ai](https://ssid.ai). Licensed **CC BY 4.0**: use it commercially, redistribute
 it, build on it. Credit ssid.ai.
 
-Generated 2026-09-02.
+Generated 2026-09-03.
 
 ## Files
 
@@ -37,7 +37,7 @@ Generated 2026-09-02.
 
 One source, and only one: `https://standards-oui.ieee.org/oui/oui.csv`.
 
-Captures before 2026-09-02 come from the Internet Archive's copies of that exact URL.
+Captures before 2026-09-03 come from the Internet Archive's copies of that exact URL.
 Each row carries the archive URL it was observed in, so any claim here can be checked
 against the bytes it was read from. Live observations since 2026-07-17 read the source
 directly and carry the source URL alone.
