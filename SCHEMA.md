@@ -52,4 +52,4 @@ file's row order is not stable between captures, so the name appears to flip. Th
 property of the source file, not a registrant change, so these are kept out of the change
 record and published here instead.
 
-Generated 2026-09-04.
+Generated 2026-09-05.
