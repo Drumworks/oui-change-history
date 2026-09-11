@@ -6,10 +6,10 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai OUI change history (https://github.com/Drumworks/oui-change-history)",
-  "generated_at": "2026-09-10",
+  "generated_at": "2026-09-11",
   "first_observed": "2016-07-29",
-  "last_observed": "2026-09-10",
-  "observation_count": 87,
+  "last_observed": "2026-09-11",
+  "observation_count": 88,
   "change_count": 2330,
   "changes": [
     {
