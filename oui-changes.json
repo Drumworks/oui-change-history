@@ -6,11 +6,11 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai OUI change history (https://github.com/Drumworks/oui-change-history)",
-  "generated_at": "2026-09-22",
+  "generated_at": "2026-09-23",
   "first_observed": "2016-07-29",
-  "last_observed": "2026-09-22",
-  "observation_count": 99,
-  "change_count": 2333,
+  "last_observed": "2026-09-23",
+  "observation_count": 100,
+  "change_count": 2334,
   "changes": [
     {
       "oui_prefix": "000048",
@@ -21008,6 +21008,15 @@
       "change_type": "renamed",
       "previous_org": "IEEE 802.1 Chair",
       "current_org": "IEEE 802.1 Working Group"
+    },
+    {
+      "oui_prefix": "BCF9F2",
+      "observed_at": "2026-09-23T04:00:23.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "TEKO",
+      "current_org": "CJSC \"STC \"TEKO\""
     }
   ]
 }
