@@ -6,11 +6,11 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai OUI change history (https://github.com/Drumworks/oui-change-history)",
-  "generated_at": "2026-09-24",
+  "generated_at": "2026-09-25",
   "first_observed": "2016-07-29",
-  "last_observed": "2026-09-24",
-  "observation_count": 101,
-  "change_count": 2334,
+  "last_observed": "2026-09-25",
+  "observation_count": 102,
+  "change_count": 2335,
   "changes": [
     {
       "oui_prefix": "000048",
@@ -21017,6 +21017,15 @@
       "change_type": "renamed",
       "previous_org": "TEKO",
       "current_org": "CJSC \"STC \"TEKO\""
+    },
+    {
+      "oui_prefix": "34800D",
+      "observed_at": "2026-09-25T04:00:22.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "Cavium Inc",
+      "current_org": "Marvell Semiconductors"
     }
   ]
 }
