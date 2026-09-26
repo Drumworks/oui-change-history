@@ -6,11 +6,11 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai OUI change history (https://github.com/Drumworks/oui-change-history)",
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-26",
   "first_observed": "2016-07-29",
-  "last_observed": "2026-09-25",
-  "observation_count": 102,
-  "change_count": 2335,
+  "last_observed": "2026-09-26",
+  "observation_count": 103,
+  "change_count": 2341,
   "changes": [
     {
       "oui_prefix": "000048",
@@ -21026,6 +21026,60 @@
       "change_type": "renamed",
       "previous_org": "Cavium Inc",
       "current_org": "Marvell Semiconductors"
+    },
+    {
+      "oui_prefix": "000064",
+      "observed_at": "2026-09-26T04:00:22.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "Yokogawa Digital Computer Corporation",
+      "current_org": "DTS INSIGHT Corporation"
+    },
+    {
+      "oui_prefix": "001EB8",
+      "observed_at": "2026-09-26T04:00:22.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "Aloys, Inc",
+      "current_org": "ATLAS LINK INC."
+    },
+    {
+      "oui_prefix": "006041",
+      "observed_at": "2026-09-26T04:00:22.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "Yokogawa Digital Computer Corporation",
+      "current_org": "DTS INSIGHT Corporation"
+    },
+    {
+      "oui_prefix": "0C166E",
+      "observed_at": "2026-09-26T04:00:22.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "WirelessMobility Engineering Centre SDN. BHD",
+      "current_org": "Eagle Wireless Engineering Centre SDN BHD"
+    },
+    {
+      "oui_prefix": "D00AAB",
+      "observed_at": "2026-09-26T04:00:22.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "Yokogawa Digital Computer Corporation",
+      "current_org": "DTS INSIGHT Corporation"
+    },
+    {
+      "oui_prefix": "F8554B",
+      "observed_at": "2026-09-26T04:00:22.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "WirelessMobility Engineering Centre SDN. BHD",
+      "current_org": "Eagle Wireless Engineering Centre SDN BHD"
     }
   ]
 }
