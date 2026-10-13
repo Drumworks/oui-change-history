@@ -6,11 +6,11 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai OUI change history (https://github.com/Drumworks/oui-change-history)",
-  "generated_at": "2026-10-12",
+  "generated_at": "2026-10-13",
   "first_observed": "2016-07-29",
-  "last_observed": "2026-10-12",
-  "observation_count": 119,
-  "change_count": 2342,
+  "last_observed": "2026-10-13",
+  "observation_count": 120,
+  "change_count": 2343,
   "changes": [
     {
       "oui_prefix": "000048",
@@ -21089,6 +21089,15 @@
       "change_type": "renamed",
       "previous_org": "MIHARU COMMUNICATIONS Inc",
       "current_org": "FURUKAWA MIHARU SOLUTIONS CORPORATION"
+    },
+    {
+      "oui_prefix": "7C9763",
+      "observed_at": "2026-10-13T04:00:27.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "Openmatics s.r.o.",
+      "current_org": "ZF Friedrichshafen AG"
     }
   ]
 }
