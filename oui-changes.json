@@ -6,11 +6,11 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai OUI change history (https://github.com/Drumworks/oui-change-history)",
-  "generated_at": "2026-10-16",
+  "generated_at": "2026-10-17",
   "first_observed": "2016-07-29",
-  "last_observed": "2026-10-16",
-  "observation_count": 123,
-  "change_count": 2343,
+  "last_observed": "2026-10-17",
+  "observation_count": 124,
+  "change_count": 2353,
   "changes": [
     {
       "oui_prefix": "000048",
@@ -21098,6 +21098,96 @@
       "change_type": "renamed",
       "previous_org": "Openmatics s.r.o.",
       "current_org": "ZF Friedrichshafen AG"
+    },
+    {
+      "oui_prefix": "00E0EC",
+      "observed_at": "2026-10-17T04:00:23.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "CELESTICA INC.",
+      "current_org": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd"
+    },
+    {
+      "oui_prefix": "0C48C6",
+      "observed_at": "2026-10-17T04:00:23.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "CELESTICA INC.",
+      "current_org": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd"
+    },
+    {
+      "oui_prefix": "34AD61",
+      "observed_at": "2026-10-17T04:00:23.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "CELESTICA INC.",
+      "current_org": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd"
+    },
+    {
+      "oui_prefix": "5CAAA2",
+      "observed_at": "2026-10-17T04:00:23.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "CELESTICA INC.",
+      "current_org": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd"
+    },
+    {
+      "oui_prefix": "64F64D",
+      "observed_at": "2026-10-17T04:00:23.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "CELESTICA INC.",
+      "current_org": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd"
+    },
+    {
+      "oui_prefix": "885A23",
+      "observed_at": "2026-10-17T04:00:23.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "CELESTICA INC.",
+      "current_org": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd"
+    },
+    {
+      "oui_prefix": "946442",
+      "observed_at": "2026-10-17T04:00:23.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "CELESTICA INC.",
+      "current_org": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd"
+    },
+    {
+      "oui_prefix": "B4DB91",
+      "observed_at": "2026-10-17T04:00:23.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "CELESTICA INC.",
+      "current_org": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd"
+    },
+    {
+      "oui_prefix": "D849BF",
+      "observed_at": "2026-10-17T04:00:23.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "CELESTICA INC.",
+      "current_org": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd"
+    },
+    {
+      "oui_prefix": "DCDA4D",
+      "observed_at": "2026-10-17T04:00:23.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "CELESTICA INC.",
+      "current_org": "Celestica Platform and Cloud Solution Malaysia Sdn Bhd"
     }
   ]
 }
