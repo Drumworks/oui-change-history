@@ -6,11 +6,11 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai OUI change history (https://github.com/Drumworks/oui-change-history)",
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-06",
   "first_observed": "2016-07-29",
-  "last_observed": "2026-11-05",
-  "observation_count": 143,
-  "change_count": 2355,
+  "last_observed": "2026-11-06",
+  "observation_count": 144,
+  "change_count": 2356,
   "changes": [
     {
       "oui_prefix": "000048",
@@ -21206,6 +21206,15 @@
       "change_type": "renamed",
       "previous_org": "LANCOM Systems GmbH",
       "current_org": "Rohde & Schwarz Networks and Cybersecurity GmbH"
+    },
+    {
+      "oui_prefix": "0CA2F4",
+      "observed_at": "2026-11-06T04:00:18.000Z",
+      "source_url": "https://standards-oui.ieee.org/oui/oui.csv",
+      "source_archive_url": null,
+      "change_type": "renamed",
+      "previous_org": "Chameleon Technology (UK) Limited",
+      "current_org": "Verve Energy Technology"
     }
   ]
 }
