@@ -11,17 +11,17 @@ authors:
     country: AE
 repository-code: https://github.com/Drumworks/oui-change-history
 url: https://ssid.ai/directory
-date-released: 2026-11-11
-version: 2026-11-11
+date-released: 2026-11-12
+version: 2026-11-12
 abstract: >-
   A change history for the IEEE OUI registry, which the IEEE itself publishes as
-  current state only. Reconstructed from 149 dated captures of
+  current state only. Reconstructed from 150 dated captures of
   https://standards-oui.ieee.org/oui/oui.csv between 2016-07-29 and
-  2026-11-11, 2070 rename events across 1865
+  2026-11-12, 2070 rename events across 1865
   prefixes are recorded, plus 5 withdrawals and
   0 reassignments, plus 281 formatting-only restyles that are typed
   separately and excluded from the headline. 1870 of the
-  40469 prefixes in the registry, 4.6 percent, have changed the
+  40481 prefixes in the registry, 4.6 percent, have changed the
   organisation they resolve to. Every row carries the archive URL it was observed in.
 keywords:
   - MAC address
